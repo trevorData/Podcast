@@ -46,6 +46,8 @@ The forecasts predict that after 200 days, the order of those 10 will switch to:
 
 **Images:**
 
+Thin lines on the main plot represent the 200 day forecasts. Grey areas on the individual plots represent the 95% and 80% confidence intervals.
+
 [**Main Plot**](https://i.imgur.com/NPmqiqc.jpg)
 
 [Not Another D&D Podcast](https://i.imgur.com/NPmqiqc.jpg)
