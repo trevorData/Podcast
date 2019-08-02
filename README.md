@@ -31,16 +31,16 @@ The forecasts predict that after 200 days, the order of those 10 will switch to:
 
 \#| Podcast| Subscribers
 ---|---|---
-1. |Chapo Trap House |33621.30
-5. |Last Podcast On The Left | 13221.82
-7. |Second Captains| 11556.08
-2.| True Crime Obsessed|23166.87
-6.| The Cum Boys|  11898.09
+1. | Chapo Trap House | 33621.30
+5. | Last Podcast On The Left | 13221.82
+7. | Second Captains| 11556.08
+2.| True Crime Obsessed| 23166.87
+6.| The Cum Boys| 11898.09
 3.| Tiny Meat Gang| 15305.11
-4.| Not Another D&D Podcast |13828.469
+4.| Not Another D&D Podcast | 13828.469
 8. | Doughboys| 8628.263
-10.|Mueller She Wrote | 5782.763
-9. |Tell 'em Steve Dave| 6910.083
+10.| Mueller She Wrote | 5782.763
+9. | Tell 'em Steve Dave| 6910.083
 
 ---
 
@@ -69,7 +69,5 @@ The forecasts predict that after 200 days, the order of those 10 will switch to:
 [Chapo Trap House](https://i.imgur.com/uNvWGjB.jpg)
 
 ---
-
-View my code at https://github.com/trevorData/Podcast  
-Python was used for scraping and R was used for analysis and visualization with ggplot2  
+  
 Techniques taken from [Robert Nau's notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm)
