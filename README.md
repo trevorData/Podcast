@@ -16,16 +16,16 @@ At the time of this data being recorded, the top 10 Patreon podcasts are:
 
 \#| Podcast| Subscribers
 ---|---|---
-1. |Chapo Trap House |30099
-2. |Last Podcast On The Left | 11624
-3. |Second Captains| 11388
-4.| True Crime Obsessed|12622
-5.| The Cum Boys| 10697
-6.| Tiny Meat Gang| 10854
-7.| Not Another D&D Podcast |8992
-8. | Doughboys| 7683
-9.|Mueller She Wrote | 7300
-10. |Tell 'em Steve Dave| 6597
+|1. |Chapo Trap House |30099
+|2. |Last Podcast On The Left | 11624
+|3. |Second Captains| 11388
+|4.| True Crime Obsessed|12622
+|5.| The Cum Boys| 10697
+|6.| Tiny Meat Gang| 10854
+|7.| Not Another D&D Podcast |8992
+|8. | Doughboys| 7683
+|9.|Mueller She Wrote | 7300
+|10. |Tell 'em Steve Dave| 6597
 
 The forecasts predict that after 200 days, the order of those 10 will switch to:
 
