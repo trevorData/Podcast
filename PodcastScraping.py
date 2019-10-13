@@ -37,6 +37,4 @@ for filename in os.listdir(directory):
 
         df = pd.concat([df, column], axis=1, sort=True)
 
-today = pd.to_datetime('today').strftime('%Y-%m-%d')
-
-df.to_csv('C:/Users/trevor.krause/Documents/Projects/Podcasts/data_{}.csv'.format(today), index=True)
+df.to_csv(str(os.environ['filepath']) + '/Projects/Podcasts/data.csv', index=False)
