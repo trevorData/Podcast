@@ -1,3 +1,31 @@
+**Plots:**
+
+Thin lines on the main plot represent the 200 day forecasts. Grey areas on the individual plots represent the 95% and 80% confidence intervals.
+
+## [Main Plot](https://i.imgur.com/NPmqiqc.jpg)
+
+[Not Another D&D Podcast](https://i.imgur.com/NPmqiqc.jpg)
+
+[Last Podcast On The Left](https://i.imgur.com/AlKKQJn.jpg)
+
+[Tiny Meat Gang](https://i.imgur.com/WbeCmwz.jpg)
+
+[Doughboys](https://i.imgur.com/SOozR34.jpg)
+
+[The Cum Boys](https://i.imgur.com/Qzk8cRd.jpg)
+
+[Tell 'em Steve Dave](https://i.imgur.com/5EJQAIL.jpg)
+
+[Mueller She Wrote](https://i.imgur.com/aHf3iNl.jpg)
+
+[Second Captains](https://i.imgur.com/SjYMOiu.jpg)
+
+[True Crime Obsessed](https://i.imgur.com/BvcKVDG.jpg)
+
+[Chapo Trap House](https://i.imgur.com/uNvWGjB.jpg)
+
+---
+
 **Methodology:**
 
 I scraped daily subscriber data for the top 10 Patreon podcasts, and forecasted their subscribers for the next 200 days using the [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model.
@@ -41,34 +69,6 @@ The forecasts predict that after 200 days, the order of those 10 will switch to:
 |8. | Doughboys| 8628.263
 |10.| Mueller She Wrote | 5782.763
 |9. | Tell 'em Steve Dave| 6910.083
-
----
-
-**Images:**
-
-Thin lines on the main plot represent the 200 day forecasts. Grey areas on the individual plots represent the 95% and 80% confidence intervals.
-
-[**Main Plot**](https://i.imgur.com/NPmqiqc.jpg)
-
-[Not Another D&D Podcast](https://i.imgur.com/NPmqiqc.jpg)
-
-[Last Podcast On The Left](https://i.imgur.com/AlKKQJn.jpg)
-
-[Tiny Meat Gang](https://i.imgur.com/WbeCmwz.jpg)
-
-[Doughboys](https://i.imgur.com/SOozR34.jpg)
-
-[The Cum Boys](https://i.imgur.com/Qzk8cRd.jpg)
-
-[Tell 'em Steve Dave](https://i.imgur.com/5EJQAIL.jpg)
-
-[Mueller She Wrote](https://i.imgur.com/aHf3iNl.jpg)
-
-[Second Captains](https://i.imgur.com/SjYMOiu.jpg)
-
-[True Crime Obsessed](https://i.imgur.com/BvcKVDG.jpg)
-
-[Chapo Trap House](https://i.imgur.com/uNvWGjB.jpg)
 
 ---
   
