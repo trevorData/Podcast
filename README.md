@@ -1,8 +1,10 @@
+# [Main Plot](https://i.imgur.com/NPmqiqc.jpg)
+
+### Forecasting The Top Patreon Podcasts in 2020
+
 **Plots:**
 
 Thin lines on the main plot represent the 200 day forecasts. Grey areas on the individual plots represent the 95% and 80% confidence intervals.
-
-## [Main Plot](https://i.imgur.com/NPmqiqc.jpg)
 
 [Not Another D&D Podcast](https://i.imgur.com/NPmqiqc.jpg)
 
