@@ -6,7 +6,7 @@
 
 Thin lines on the *main plot* represent the 200 day forecasts. 
 
-Grey regions on the *individual plots* represent the 95% and 80% confidence intervals.
+Grey regions on the *individual plots* represent the 95% and 80% confidence intervals of those forecasts.
 
 [Not Another D&D Podcast](https://i.imgur.com/fLC5sMf.jpg)
 
