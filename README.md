@@ -4,9 +4,11 @@
 
 **Plots:**
 
-Thin lines on the main plot represent the 200 day forecasts. Grey areas on the individual plots represent the 95% and 80% confidence intervals.
+Thin lines on the *main plot* represent the 200 day forecasts. 
 
-[Not Another D&D Podcast](https://i.imgur.com/NPmqiqc.jpg)
+Grey regions on the *individual plots* represent the 95% and 80% confidence intervals.
+
+[Not Another D&D Podcast](https://i.imgur.com/fLC5sMf.jpg)
 
 [Last Podcast On The Left](https://i.imgur.com/AlKKQJn.jpg)
 
@@ -36,7 +38,7 @@ ARIMA models forecast time-series data by smoothing out the series with a moving
 
 The model I used here is a Seasonal-ARIMA model which accounts for the regular movement of the data in each "season".
 
-In this case, a season in one month, because subscriber counts take a dip at the beginning of each month when cancellations are processed.
+In this case, a season is one month, because subscriber counts take a dip at the beginning of each month when cancellations are processed.
 
 ---
 
